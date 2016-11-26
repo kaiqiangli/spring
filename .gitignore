@@ -4,7 +4,7 @@
 .mtj.tmp/
 .idea/*
 target/
-.DS_Store/*
+.DS_Store
 # Package Files #
 *.jar
 *.war
